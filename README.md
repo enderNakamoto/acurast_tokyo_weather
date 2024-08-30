@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # Acurast Example App: Fetch
 
 This repository shows how to set up and run a project with fetch on Acurast.
